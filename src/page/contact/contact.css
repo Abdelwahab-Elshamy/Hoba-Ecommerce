@@ -1,0 +1,19 @@
+.contact-from input,
+.contact-from textarea {
+  border: 1px solid var(--border_color);
+}
+
+.head-contact {
+  position: relative;
+  margin-bottom: 20px;
+  border-bottom: 1px solid var(--border_color);
+}
+
+.head-contact h1 {
+  font-size: 30px;
+  color: var(--main_color);
+  text-transform: capitalize;
+}
+.contact-from button {
+  border-radius: 5px;
+}
