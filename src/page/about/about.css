@@ -1,0 +1,6 @@
+.about {
+  color: var(--main_color);
+  border-bottom: 1px solid var(--border_color);
+  padding: 20px;
+  margin-bottom: 10px;
+}
