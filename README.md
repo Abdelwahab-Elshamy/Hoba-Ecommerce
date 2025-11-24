@@ -1,2 +1,3 @@
 # Hoba-Ecommerce
-Hoba-Ecommerce is an online shopping platform offering high-quality products at competitive prices, with a smooth user experience and reliable delivery for all customers.
+ba-Ecommerce is a fully functional e-commerce web application built using React with Vite, React Router, and Bootstrap for fast, responsive design. The project features a products page, a shopping cart page where users can add or remove products, and a favorites page for bookmarked items. I utilized React hooks such as useState and useEffect for managing state and component lifecycle, ensuring smooth user interactions. The application demonstrates dynamic routing, interactive UI elements, and efficient state management, providing a seamless shopping experience. 
+Repo : https://hoba-ecommerce.web.app/
